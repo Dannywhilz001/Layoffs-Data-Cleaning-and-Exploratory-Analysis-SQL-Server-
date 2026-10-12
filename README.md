@@ -63,7 +63,7 @@ Questions I answered with SQL:
 - `layoffs_clean_eda_sqlserver.sql`: the full cleaning and analysis script
 - `README.md`: this file
 
-## About Me3
+## About Me
 
 **Oladotun Olawale**, aspiring Business / Data Analyst anywhere in Nigeria
 
